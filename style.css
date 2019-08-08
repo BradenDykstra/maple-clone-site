@@ -9,3 +9,8 @@
 .fancy-font{
   font-family: serif;
 }
+
+.btn-gray{
+  background-color: #78797a;
+  color: #f8f9fa;
+}
